@@ -1,0 +1,1 @@
+console.log("Aprendendo sobre npm scripts de teste e desenvolvimento");
