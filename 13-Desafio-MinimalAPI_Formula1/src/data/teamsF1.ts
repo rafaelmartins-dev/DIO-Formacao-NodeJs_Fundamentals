@@ -1,0 +1,22 @@
+export const teamsF1 = [
+    { id: 1, nome: "Mercedes", pais: "Alemanha", cidade: "Brackley" },
+    { id: 2, nome: "Red Bull Racing", pais: "Áustria", cidade: "Milton Keynes" },
+    { id: 3, nome: "Ferrari", pais: "Itália", cidade: "Maranello" },
+    { id: 4, nome: "McLaren", pais: "Reino Unido", cidade: "Woking" },
+    { id: 5, nome: "Aston Martin", pais: "Reino Unido", cidade: "Silverstone" },
+    { id: 6, nome: "Alpine", pais: "França", cidade: "Enstone" },
+    { id: 7, nome: "Williams", pais: "Reino Unido", cidade: "Grove" },
+    { id: 8, nome: "Mercedes", pais: "Alemanha", cidade: "Brackley" },
+    { id: 9, nome: "Red Bull Racing", pais: "Áustria", cidade: "Milton Keynes" },
+    { id: 10, nome: "Ferrari", pais: "Itália", cidade: "Maranello" },
+    { id: 11, nome: "McLaren", pais: "Reino Unido", cidade: "Woking" },
+    { id: 12, nome: "Aston Martin", pais: "Reino Unido", cidade: "Silverstone" },
+    { id: 13, nome: "Alpine", pais: "França", cidade: "Enstone" },
+    { id: 14, nome: "Williams", pais: "Reino Unido", cidade: "Grove" },
+    { id: 15, nome: "Mercedes", pais: "Alemanha", cidade: "Brackley" },
+    { id: 16, nome: "Red Bull Racing", pais: "Áustria", cidade: "Milton Keynes" },
+    { id: 17, nome: "Ferrari", pais: "Itália", cidade: "Maranello" },
+    { id: 18, nome: "McLaren", pais: "Reino Unido", cidade: "Woking" },
+    { id: 19, nome: "Aston Martin", pais: "Reino Unido", cidade: "Silverstone" },
+    { id: 20, nome: "Alpine", pais: "França", cidade: "Enstone" }
+];

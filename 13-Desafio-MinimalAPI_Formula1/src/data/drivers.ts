@@ -1,0 +1,22 @@
+export const driversF1 = [
+    { id: 1, nome: "Lewis Hamilton", nationality: "British", team: "Mercedes" },
+    { id: 2, nome: "George Russell", nationality: "British", team: "Mercedes" },
+    { id: 3, nome: "Max Verstappen", nationality: "Dutch", team: "Red Bull Racing" },
+    { id: 4, nome: "Sergio Pérez", nationality: "Mexican", team: "Red Bull Racing" },
+    { id: 5, nome: "Charles Leclerc", nationality: "Monegasque", team: "Ferrari" },
+    { id: 6, nome: "Carlos Sainz", nationality: "Spanish", team: "Ferrari" },
+    { id: 7, nome: "Lando Norris", nationality: "British", team: "McLaren" },
+    { id: 8, nome: "Oscar Piastri", nationality: "Australian", team: "McLaren" },
+    { id: 9, nome: "Fernando Alonso", nationality: "Spanish", team: "Aston Martin" },
+    { id: 10, nome: "Lance Stroll", nationality: "Canadian", team: "Aston Martin" },
+    { id: 11, nome: "Pierre Gasly", nationality: "French", team: "Alpine" },
+    { id: 12, nome: "Esteban Ocon", nationality: "French", team: "Alpine" },
+    { id: 13, nome: "Alexander Albon", nationality: "Thai", team: "Williams" },
+    { id: 14, nome: "Logan Sargeant", nationality: "American", team: "Williams" },
+    { id: 15, nome: "Lewis Hamilton", nationality: "British", team: "Mercedes" },
+    { id: 16, nome: "Max Verstappen", nationality: "Dutch", team: "Red Bull Racing" },
+    { id: 17, nome: "Charles Leclerc", nationality: "Monegasque", team: "Ferrari" },
+    { id: 18, nome: "Lando Norris", nationality: "British", team: "McLaren" },
+    { id: 19, nome: "Fernando Alonso", nationality: "Spanish", team: "Aston Martin" },
+    { id: 20, nome: "Pierre Gasly", nationality: "French", team: "Alpine" }
+];
