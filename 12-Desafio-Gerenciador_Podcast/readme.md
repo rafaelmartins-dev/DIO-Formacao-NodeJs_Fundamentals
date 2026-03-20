@@ -125,7 +125,7 @@ Resposta (contrato da API):
 Exemplo:
 
 ```text
-GET /episode?p=Flow%20Podcast
+GET /episode?p=Flow Podcast
 ```
 
 Observacoes:
@@ -137,13 +137,13 @@ Observacoes:
 
 ```bash
 # Home
-curl http://localhost:3333/
+curl http://localhost:8000/
 
 # Lista completa
-curl http://localhost:3333/episodes
+curl http://localhost:8000/episodes
 
 # Filtro por podcast
-curl "http://localhost:3333/episode?p=Flow%20Podcast"
+curl "http://localhost:8000/episode?p=Flow Podcast"
 ```
 
 ## Codigos de status
