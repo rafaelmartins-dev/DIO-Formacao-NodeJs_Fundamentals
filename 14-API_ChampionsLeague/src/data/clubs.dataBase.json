@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "name": "Inter Miami",
+        "country": "USA",
+        "city": "Miami",
+        "overall": 78
+    },
+    {
+        "id": 2,
+        "name": "Al Nassr",
+        "country": "Saudi Arabia",
+        "city": "Riyadh",
+        "overall": 80
+    },
+    {
+        "id": 3,
+        "name": "PSG",
+        "country": "France",
+        "city": "Paris",
+        "overall": 86
+    },
+    {
+        "id": 4,
+        "name": "Manchester City",
+        "country": "England",
+        "city": "Manchester",
+        "overall": 90
+    },
+    {
+        "id": 5,
+        "name": "Liverpool",
+        "country": "England",
+        "city": "Liverpool",
+        "overall": 88
+    },
+    {
+        "id": 6,
+        "name": "Barcelona",
+        "country": "Spain",
+        "city": "Barcelona",
+        "overall": 87
+    },
+    {
+        "id": 7,
+        "name": "Real Madrid",
+        "country": "Spain",
+        "city": "Madrid",
+        "overall": 89
+    },
+    {
+        "id": 8,
+        "name": "Bayern Munich",
+        "country": "Germany",
+        "city": "Munich",
+        "overall": 88
+    },
+    {
+        "id": 9,
+        "name": "Al Hilal",
+        "country": "Saudi Arabia",
+        "city": "Riyadh",
+        "overall": 84
+    },
+    {
+        "id": 10,
+        "name": "Al-Ittihad",
+        "country": "Saudi Arabia",
+        "city": "Jeddah",
+        "overall": 83
+    },
+    {
+        "id": 11,
+        "name": "Manchester United",
+        "country": "England",
+        "city": "Manchester",
+        "overall": 86
+    },
+    {
+        "id": 12,
+        "name": "Tottenham",
+        "country": "England",
+        "city": "London",
+        "overall": 84
+    },
+    {
+        "id": 13,
+        "name": "Atletico Madrid",
+        "country": "Spain",
+        "city": "Madrid",
+        "overall": 86
+    },
+    {
+        "id": 14,
+        "name": "Al Ahli",
+        "country": "Saudi Arabia",
+        "city": "Jeddah",
+        "overall": 82
+    },
+    {
+        "id": 15,
+        "name": "Arsenal",
+        "country": "England",
+        "city": "London",
+        "overall": 87
+    },
+    {
+        "id": 16,
+        "name": "Chelsea",
+        "country": "England",
+        "city": "London",
+        "overall": 85
+    },
+    {
+        "id": 17,
+        "name": "Juventus",
+        "country": "Italy",
+        "city": "Turin",
+        "overall": 85
+    },
+    {
+        "id": 18,
+        "name": "AC Milan",
+        "country": "Italy",
+        "city": "Milan",
+        "overall": 86
+    },
+    {
+        "id": 19,
+        "name": "Inter Milan",
+        "country": "Italy",
+        "city": "Milan",
+        "overall": 87
+    },
+    {
+        "id": 20,
+        "name": "Napoli",
+        "country": "Italy",
+        "city": "Naples",
+        "overall": 86
+    },
+    {
+        "id": 21,
+        "name": "Borussia Dortmund",
+        "country": "Germany",
+        "city": "Dortmund",
+        "overall": 85
+    },
+    {
+        "id": 22,
+        "name": "RB Leipzig",
+        "country": "Germany",
+        "city": "Leipzig",
+        "overall": 84
+    },
+    {
+        "id": 23,
+        "name": "Sevilla",
+        "country": "Spain",
+        "city": "Seville",
+        "overall": 83
+    },
+    {
+        "id": 24,
+        "name": "Villarreal",
+        "country": "Spain",
+        "city": "Villarreal",
+        "overall": 83
+    },
+    {
+        "id": 25,
+        "name": "Ajax",
+        "country": "Netherlands",
+        "city": "Amsterdam",
+        "overall": 82
+    },
+    {
+        "id": 26,
+        "name": "Benfica",
+        "country": "Portugal",
+        "city": "Lisbon",
+        "overall": 84
+    },
+    {
+        "id": 27,
+        "name": "Porto",
+        "country": "Portugal",
+        "city": "Porto",
+        "overall": 84
+    },
+    {
+        "id": 28,
+        "name": "Sporting CP",
+        "country": "Portugal",
+        "city": "Lisbon",
+        "overall": 83
+    },
+    {
+        "id": 29,
+        "name": "Flamengo",
+        "country": "Brazil",
+        "city": "Rio de Janeiro",
+        "overall": 85
+    },
+    {
+        "id": 30,
+        "name": "Palmeiras",
+        "country": "Brazil",
+        "city": "São Paulo",
+        "overall": 85
+    }
+]

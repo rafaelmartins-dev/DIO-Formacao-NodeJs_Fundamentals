@@ -1,0 +1,244 @@
+import { PlayerModel } from '@/modules/players/player.model';
+
+export let playersDataBase: PlayerModel[] = [
+  {
+    id: 1,
+    name: "Lionel Messi",
+    nacionality: "Argentina",
+    clubId: 1,
+    position: "RW",
+    statistics: { overall: 91, pace: 80, shooting: 87, passing: 92, dribbling: 95, defending: 35, physical: 65 }
+  },
+  {
+    id: 2,
+    name: "Cristiano Ronaldo",
+    nacionality: "Portugal",
+    clubId: 2,
+    position: "ST",
+    statistics: { overall: 90, pace: 82, shooting: 93, passing: 78, dribbling: 85, defending: 35, physical: 77 }
+  },
+  {
+    id: 3,
+    name: "Kylian Mbappé",
+    nacionality: "France",
+    clubId: 3,
+    position: "ST",
+    statistics: { overall: 91, pace: 97, shooting: 90, passing: 80, dribbling: 92, defending: 36, physical: 78 }
+  },
+  {
+    id: 4,
+    name: "Erling Haaland",
+    nacionality: "Norway",
+    clubId: 4,
+    position: "ST",
+    statistics: { overall: 91, pace: 89, shooting: 94, passing: 65, dribbling: 80, defending: 45, physical: 88 }
+  },
+  {
+    id: 5,
+    name: "Kevin De Bruyne",
+    nacionality: "Belgium",
+    clubId: 4,
+    position: "CM",
+    statistics: { overall: 91, pace: 74, shooting: 86, passing: 93, dribbling: 88, defending: 64, physical: 78 }
+  },
+  {
+    id: 6,
+    name: "Neymar Jr",
+    nacionality: "Brazil",
+    clubId: 9,
+    position: "LW",
+    statistics: { overall: 89, pace: 87, shooting: 85, passing: 87, dribbling: 93, defending: 37, physical: 60 }
+  },
+  {
+    id: 7,
+    name: "Mohamed Salah",
+    nacionality: "Egypt",
+    clubId: 5,
+    position: "RW",
+    statistics: { overall: 90, pace: 93, shooting: 89, passing: 82, dribbling: 88, defending: 45, physical: 75 }
+  },
+  {
+    id: 8,
+    name: "Robert Lewandowski",
+    nacionality: "Poland",
+    clubId: 6,
+    position: "ST",
+    statistics: { overall: 90, pace: 75, shooting: 92, passing: 79, dribbling: 86, defending: 44, physical: 84 }
+  },
+  {
+    id: 9,
+    name: "Virgil van Dijk",
+    nacionality: "Netherlands",
+    clubId: 5,
+    position: "CB",
+    statistics: { overall: 89, pace: 78, shooting: 60, passing: 71, dribbling: 72, defending: 91, physical: 86 }
+  },
+  {
+    id: 10,
+    name: "Luka Modrić",
+    nacionality: "Croatia",
+    clubId: 7,
+    position: "CM",
+    statistics: { overall: 88, pace: 73, shooting: 76, passing: 90, dribbling: 88, defending: 72, physical: 65 }
+  },
+  {
+    id: 11,
+    name: "Harry Kane",
+    nacionality: "England",
+    clubId: 8,
+    position: "ST",
+    statistics: { overall: 90, pace: 70, shooting: 93, passing: 83, dribbling: 84, defending: 47, physical: 82 }
+  },
+  {
+    id: 12,
+    name: "Karim Benzema",
+    nacionality: "France",
+    clubId: 10,
+    position: "ST",
+    statistics: { overall: 89, pace: 75, shooting: 91, passing: 82, dribbling: 87, defending: 40, physical: 79 }
+  },
+  {
+    id: 13,
+    name: "Vinícius Jr",
+    nacionality: "Brazil",
+    clubId: 7,
+    position: "LW",
+    statistics: { overall: 89, pace: 95, shooting: 84, passing: 80, dribbling: 92, defending: 35, physical: 70 }
+  },
+  {
+    id: 14,
+    name: "Jude Bellingham",
+    nacionality: "England",
+    clubId: 7,
+    position: "CM",
+    statistics: { overall: 90, pace: 82, shooting: 85, passing: 86, dribbling: 88, defending: 78, physical: 82 }
+  },
+  {
+    id: 15,
+    name: "Pedri",
+    nacionality: "Spain",
+    clubId: 6,
+    position: "CM",
+    statistics: { overall: 86, pace: 79, shooting: 74, passing: 88, dribbling: 89, defending: 68, physical: 60 }
+  },
+  {
+    id: 16,
+    name: "Gavi",
+    nacionality: "Spain",
+    clubId: 6,
+    position: "CM",
+    statistics: { overall: 84, pace: 78, shooting: 70, passing: 85, dribbling: 86, defending: 70, physical: 65 }
+  },
+  {
+    id: 17,
+    name: "Joshua Kimmich",
+    nacionality: "Germany",
+    clubId: 8,
+    position: "CDM",
+    statistics: { overall: 89, pace: 68, shooting: 72, passing: 88, dribbling: 84, defending: 85, physical: 78 }
+  },
+  {
+    id: 18,
+    name: "Casemiro",
+    nacionality: "Brazil",
+    clubId: 11,
+    position: "CDM",
+    statistics: { overall: 88, pace: 63, shooting: 73, passing: 75, dribbling: 72, defending: 89, physical: 88 }
+  },
+  {
+    id: 19,
+    name: "Bruno Fernandes",
+    nacionality: "Portugal",
+    clubId: 11,
+    position: "CAM",
+    statistics: { overall: 88, pace: 75, shooting: 86, passing: 89, dribbling: 85, defending: 65, physical: 75 }
+  },
+  {
+    id: 20,
+    name: "Bernardo Silva",
+    nacionality: "Portugal",
+    clubId: 4,
+    position: "CAM",
+    statistics: { overall: 88, pace: 81, shooting: 78, passing: 87, dribbling: 92, defending: 67, physical: 68 }
+  },
+  {
+    id: 21,
+    name: "Riyad Mahrez",
+    nacionality: "Algeria",
+    clubId: 14,
+    position: "RW",
+    statistics: { overall: 86, pace: 82, shooting: 80, passing: 83, dribbling: 90, defending: 38, physical: 60 }
+  },
+  {
+    id: 22,
+    name: "Son Heung-min",
+    nacionality: "South Korea",
+    clubId: 12,
+    position: "LW",
+    statistics: { overall: 88, pace: 90, shooting: 88, passing: 82, dribbling: 86, defending: 42, physical: 74 }
+  },
+  {
+    id: 23,
+    name: "Antoine Griezmann",
+    nacionality: "France",
+    clubId: 13,
+    position: "CF",
+    statistics: { overall: 88, pace: 80, shooting: 85, passing: 86, dribbling: 87, defending: 60, physical: 72 }
+  },
+  {
+    id: 24,
+    name: "Jan Oblak",
+    nacionality: "Slovenia",
+    clubId: 13,
+    position: "GK",
+    statistics: { overall: 89, pace: 50, shooting: 20, passing: 65, dribbling: 50, defending: 90, physical: 78 }
+  },
+  {
+    id: 25,
+    name: "Alisson Becker",
+    nacionality: "Brazil",
+    clubId: 5,
+    position: "GK",
+    statistics: { overall: 89, pace: 52, shooting: 18, passing: 70, dribbling: 55, defending: 88, physical: 80 }
+  },
+  {
+    id: 26,
+    name: "Thibaut Courtois",
+    nacionality: "Belgium",
+    clubId: 7,
+    position: "GK",
+    statistics: { overall: 90, pace: 48, shooting: 15, passing: 68, dribbling: 50, defending: 89, physical: 85 }
+  },
+  {
+    id: 27,
+    name: "Achraf Hakimi",
+    nacionality: "Morocco",
+    clubId: 3,
+    position: "RB",
+    statistics: { overall: 86, pace: 95, shooting: 75, passing: 80, dribbling: 82, defending: 78, physical: 76 }
+  },
+  {
+    id: 28,
+    name: "João Cancelo",
+    nacionality: "Portugal",
+    clubId: 6,
+    position: "LB",
+    statistics: { overall: 86, pace: 85, shooting: 75, passing: 85, dribbling: 88, defending: 80, physical: 70 }
+  },
+  {
+    id: 29,
+    name: "Rúben Dias",
+    nacionality: "Portugal",
+    clubId: 4,
+    position: "CB",
+    statistics: { overall: 88, pace: 68, shooting: 55, passing: 75, dribbling: 70, defending: 89, physical: 85 }
+  },
+  {
+    id: 30,
+    name: "Marquinhos",
+    nacionality: "Brazil",
+    clubId: 3,
+    position: "CB",
+    statistics: { overall: 87, pace: 75, shooting: 60, passing: 80, dribbling: 78, defending: 88, physical: 82 }
+  }
+];
